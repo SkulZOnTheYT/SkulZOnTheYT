@@ -41,5 +41,9 @@
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ## ✨ MY GITHUB STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkulZOnTheYT&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkulZOnTheYT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkulZOnTheYT&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SkulZOnTheYT&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
